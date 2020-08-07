@@ -19,7 +19,9 @@ liupengbo.work@gmail.com
 
 <img align="left" alt="Python" width="26px" src="https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1596804596633&di=dcdf6b26998c2ca0216059e520393127&imgtype=0&src=http%3A%2F%2Fimg.cwq.com%2F201611%2F581c95c35ca62.png" /> 
 
-<img align="left" alt="PyTorch" width="26px" src="https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1596804753272&di=2f27be1f61de40b5719e002c28846269&imgtype=0&src=http%3A%2F%2Fpic2.zhimg.com%2Fv2-03348e7f858fa8f61e74febb8c750446_1200x500.jpg" /> 
+<img align="left" alt="scikit" width="26px" src="https://ss0.bdstatic.com/70cFvHSh_Q1YnxGkpoWK1HF6hhy/it/u=2404125141,471724635&fm=26&gp=0.jpg" /> 
+
+<img align="left" alt="PyTorch" width="26px" src="https://ss1.bdstatic.com/70cFuXSh_Q1YnxGkpoWK1HF6hhy/it/u=3940163911,302117590&fm=15&gp=0.jpg" /> 
 
 <br />
 <br />
