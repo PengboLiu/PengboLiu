@@ -27,7 +27,7 @@ liupengbo.work@gmail.com
 
 [Exploiting Typed Syntactic Dependencies for Targeted Sentiment Classification Using Graph Attention Neural Network](https://arxiv.org/abs/2002.09685) 
 
-[Xuefeng Bai](https://arxiv.org/search/cs?searchtype=author&query=Bai%2C+X), **[Pengbo Liu](https://arxiv.org/search/cs?searchtype=author&query=Liu%2C+P)**, [Yue Zhang](https://arxiv.org/search/cs?searchtype=author&query=Zhang%2C+Y)
+Xuefeng Bai, **Pengbo Liu**, Yue Zhang
 
 ### Languages and Tools:
 <img align="left" alt="C++" width="26px" src="https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1596804934593&di=00868b71a1d192916ee7f9852771db6e&imgtype=0&src=http%3A%2F%2Fimg.mp.itc.cn%2Fupload%2F20161227%2F17d1fb7ce8574b808a2b506b0b10e440.jpg" /> 
