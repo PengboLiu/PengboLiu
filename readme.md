@@ -20,8 +20,6 @@ liupengbo.work@gmail.com
  <img align="left" alt="ali" width="30px" src="https://ss0.bdstatic.com/70cFvHSh_Q1YnxGkpoWK1HF6hhy/it/u=3211174755,200170773&fm=26&gp=0.jpg" /> Alibaba, Taobao Tech, intern Algorithm Engineer (2020.05 - 2020.09)
 
 
-
-------
 <img align="left" alt="TX" width="30px" src="https://ss1.bdstatic.com/70cFuXSh_Q1YnxGkpoWK1HF6hhy/it/u=2640553151,1248485598&fm=26&gp=0.jpg" /> Tencent, PCG, intern Algorithm Engineer (2019.06 - 2019.08)
 
 
