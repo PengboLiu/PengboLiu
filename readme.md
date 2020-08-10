@@ -21,7 +21,7 @@ liupengbo.work@gmail.com
 
 
 
-
+<br />
 
 <img align="left" alt="TX" width="100px" src="https://ss1.bdstatic.com/70cFuXSh_Q1YnxGkpoWK1HF6hhy/it/u=2640553151,1248485598&fm=26&gp=0.jpg" /> Tencent, PCG, intern Algorithm Engineer (2019.06 - 2019.08)
 
