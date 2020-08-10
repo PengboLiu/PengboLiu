@@ -46,7 +46,7 @@ Xuefeng Bai, **Pengbo Liu**, Yue Zhang
 
 <img align="left" alt="scikit" width="30px" src="https://ss0.bdstatic.com/70cFvHSh_Q1YnxGkpoWK1HF6hhy/it/u=2404125141,471724635&fm=26&gp=0.jpg" /> 
 
-<img align="left" alt="PyTorch" width="30px" src="https://ss0.bdstatic.com/70cFuHSh_Q1YnxGkpoWK1HF6hhy/it/u=3637209210,3966353300&fm=26&gp=0.jpg" /> 
+<img align="left" alt="PyTorch" width="30px" src="https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1597037412927&di=1e6fa2b2ec929c71424a49c9b37a6ddc&imgtype=0&src=http%3A%2F%2Fp9.itc.cn%2Fq_70%2Fimages03%2F20200626%2Fa9bd2fb61f0a4d07b8e2a08863aed6fe.png" /> 
 
 <br />
 <br />
