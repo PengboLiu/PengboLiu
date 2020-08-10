@@ -40,7 +40,7 @@ Xuefeng Bai, **Pengbo Liu**, Yue Zhang
 
 <img align="left" alt="C++" width="30px" src="https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1596804934593&di=00868b71a1d192916ee7f9852771db6e&imgtype=0&src=http%3A%2F%2Fimg.mp.itc.cn%2Fupload%2F20161227%2F17d1fb7ce8574b808a2b506b0b10e440.jpg" /> 
 
-<img align="left" alt="Python" width="30px" src="https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1597050139631&di=6206c71e82dfa9432e0d3a258c71dc5e&imgtype=0&src=http%3A%2F%2F5b0988e595225.cdn.sohucs.com%2Fimages%2F20180427%2Fa7edbf22edbf4756ac126ee282b1086f.jpeg" /> 
+<img align="left" alt="Python" width="30px" src="https://ss2.bdstatic.com/70cFvnSh_Q1YnxGkpoWK1HF6hhy/it/u=1413726505,3948729323&fm=26&gp=0.jpg" /> 
 
 <img align="left" alt="SQL" width="30px" src="https://ss0.bdstatic.com/70cFvHSh_Q1YnxGkpoWK1HF6hhy/it/u=2474871855,3746207869&fm=26&gp=0.jpg" /> 
 
