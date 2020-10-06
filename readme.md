@@ -2,7 +2,6 @@
 
 ## I am an algorithm engineer, photography enthusiast and history fan.
 - 🔭 I am a master student of Harbin Institute of Technology, and my research interest is natural language processing.
-- 🌱 I am currently doing an internship as an algorithm engineer at Alibaba.
 - 👯 I like to exchange knowledge about computers, history and sociology with others.
 - 🥅 2020 Goals: reading, coding, traveling and a satisfactory job.
 - ⚡ Fun fact: I love fitness, swimming, photography and reading.
