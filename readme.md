@@ -29,9 +29,12 @@ liupengbo.work@gmail.com
 
 ### Publication:
 
-[Exploiting Typed Syntactic Dependencies for Targeted Sentiment Classification Using Graph Attention Neural Network](https://arxiv.org/abs/2002.09685) 
+Investigating Typed Syntactic Dependencies for Targeted Sentiment Classification Using Graph Attention Neural Network  
 
-Xuefeng Bai, **Pengbo Liu**, Yue Zhang
+Xuefeng Bai, **Pengbo Liu**, Yue Zhang  
+
+IEEE/ACM Transactions on Audio, Speech, and Language Processing (TASLP), Accepted, 2020
+
 
 ------
 
