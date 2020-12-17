@@ -1,6 +1,7 @@
 ### Hi there, I'm Stark(Pengbo Liu) 👋
 
 ## I am an algorithm engineer, photography enthusiast and history fan.
+
 - 🔭 I am a master student of Harbin Institute of Technology, and my research interest is natural language processing.
 - 👯 I like to exchange knowledge about computers, history and sociology with others.
 - 🥅 2020 Goals: reading, coding, traveling and a satisfactory job.
@@ -33,7 +34,7 @@ liupengbo.work@gmail.com
 
 Xuefeng Bai, **Pengbo Liu**, Yue Zhang  
 
-IEEE/ACM Transactions on Audio, Speech, and Language Processing (TASLP), Accepted, 2020
+IEEE/ACM Transactions on Audio, Speech, and Language Processing (TASLP, 2020)    [paper](https://arxiv.org/abs/2002.09685)|[code](https://github.com/muyeby/RGAT-ABSA)
 
 
 ------
@@ -56,4 +57,3 @@ IEEE/ACM Transactions on Audio, Speech, and Language Processing (TASLP), Accepte
 ---
 
 <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=pengboliu&show_icons=true&hide_border=true" />
-
