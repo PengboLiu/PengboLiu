@@ -34,7 +34,7 @@ liupengbo.work@gmail.com
 
 Xuefeng Bai, **Pengbo Liu**, Yue Zhang  
 
-IEEE/ACM Transactions on Audio, Speech, and Language Processing, vol. 29, pp. 503-514, 2021, doi: 10.1109/TASLP.2020.3042009.   &emsp;[Paper](https://arxiv.org/abs/2002.09685)&nbsp;|&nbsp;[Code](https://github.com/muyeby/RGAT-ABSA)
+IEEE/ACM Transactions on Audio, Speech, and Language Processing, vol. 29, pp. 503-514, 2021.   &emsp;[Paper](https://arxiv.org/abs/2002.09685)&nbsp;|&nbsp;[Code](https://github.com/muyeby/RGAT-ABSA)
 
 
 
