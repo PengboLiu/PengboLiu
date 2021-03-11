@@ -4,7 +4,7 @@
 
 - 🔭 I am a master student of Harbin Institute of Technology, and my research interest is natural language processing.
 - 👯 I like to exchange knowledge about computers, history and sociology with others.
-- 🥅 2020 Goals: reading, coding, traveling and a satisfactory job.
+- 🥅 2021 Goals: smooth graduation, smooth entry, reading, coding and traveling.
 - ⚡ Fun fact: I love fitness, swimming, photography and reading.
 
 ------
